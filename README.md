@@ -1,4 +1,4 @@
-# rapid-prototyping-for-websites
+# Rapid Prototyping for Websites
 
 Build stuff that works quickly
 
@@ -13,9 +13,27 @@ Build stuff that works quickly
 
 [Bootswatch](https://bootswatch.com/)
 
+[HTML5 Zero](http://www.html5zero.com/)
+
 ### Code snippets
 
-[Bootstrap HTML/CSS snippets](http://bootsnipp.com/)
+[Bootsnipp](http://bootsnipp.com/) - Bootstrap HTML/CSS design snippets
+
+### Free stock photos
+
+[Pexels](https://www.pexels.com/)
+
+[Pixabay](https://pixabay.com/)
+
+[Unsplash](https://unsplash.com/)
+
+[Flickr Creative Commons](https://www.flickr.com/creativecommons/)
+
+[Gratisography](http://www.gratisography.com/)
+
+[Reddit Post 1](https://www.reddit.com/r/web_design/comments/2v5ts0/ultimate_collection_of_free_stock_photos_websites/) - Recommended, huge list of websites
+
+[Reddit Post 2](https://www.reddit.com/r/Entrepreneur/comments/34iryg/what_are_the_best_royalty_free_stock_image_sites/)
 
 
 ## Useful open-source repositories
