@@ -52,6 +52,13 @@ Build stuff that works quickly
 
 [dragula](https://github.com/bevacqua/dragula) - Drag and drop library
 
+
+## Free HTTPS setup
+
+[LetsEncrypt](https://letsencrypt.org/) - Free automated HTTPS deployment
+
+[CloudFlare](https://www.cloudflare.com/ssl/) - Free HTTPS between Client-Cloudflare, no end-to-end HTTPS without cert
+
 ## Useful links for further reading
 
 [The Hackathon Toolbox - Essential Tools and Practices](http://thecodeship.com/general/hackathon-toolbox-essential-tools-practices/)
