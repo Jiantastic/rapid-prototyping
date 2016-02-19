@@ -43,6 +43,8 @@ Build stuff that works quickly
 
 [IBM Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html)
 
+[Project Oxford](https://www.projectoxford.ai/)
+
 ### Map APIs
 [Google Maps](https://developers.google.com/maps/)
 
