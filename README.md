@@ -38,26 +38,35 @@ Build stuff that works quickly
 ## APIs
 ### "AI" APIs - Vision, Speech, Data, Language
 [Google Vision API](https://cloud.google.com/vision/)
+
 [AlchemyAPI](http://vision.alchemy.ai/)
+
 [IBM Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html)
 
 ### Map APIs
 [Google Maps](https://developers.google.com/maps/)
+
 [Esri Maps](https://developers.arcgis.com/)
 
 ### Automated Communications APIs
 [Twilio](https://www.twilio.com/api)
+
 [MailChimp](https://apidocs.mailchimp.com/)
+
 [SendGrid](https://sendgrid.com/docs/API_Reference/index.html)
 
 ### Payment APIs
 [Stripe](https://stripe.com/docs/api#intro)
+
 [BrainTree](https://www.braintreepayments.com/)
+
 [BlockChain](https://blockchain.info/api)
 
 ### Social APIs
 [Facebook](https://developers.facebook.com/)
+
 [Twitter](https://dev.twitter.com/overview/documentation)
+
 [Google+](https://developers.google.com/+/web/api/rest/)
 
 ### Document Scanning API
