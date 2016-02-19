@@ -117,9 +117,13 @@ Build stuff that works quickly
 
 ## Analytics software
 [Google Analytics](https://www.google.com/analytics/)
+
 [New Relic](http://newrelic.com/)
+
 [KISSMetrics](https://www.kissmetrics.com/)
+
 [Piwik](http://piwik.org/)
+
 [Open Web Analytics](http://www.openwebanalytics.com/)
 
 ## Useful links for further reading
