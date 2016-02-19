@@ -97,6 +97,31 @@ Build stuff that works quickly
 
 [CloudFlare](https://www.cloudflare.com/ssl/) - Free HTTPS between Client-Cloudflare, no end-to-end HTTPS without cert
 
+## Domain Name registrars
+[Namecheap](https://www.namecheap.com/)
+
+[Name](https://www.name.com/)
+
+[Google Domains](https://domains.google.com/about/)
+
+## Website Hosting
+[Amazon S3](https://aws.amazon.com/s3/) - Very cheap hosting for static websites
+
+[Amazon Web Services](https://aws.amazon.com/)
+
+[DigitalOcean](https://www.digitalocean.com/)
+
+[Azure](https://azure.microsoft.com/en-us/)
+
+[RackSpace](https://www.rackspace.com/)
+
+## Analytics software
+[Google Analytics](https://www.google.com/analytics/)
+[New Relic](http://newrelic.com/)
+[KISSMetrics](https://www.kissmetrics.com/)
+[Piwik](http://piwik.org/)
+[Open Web Analytics](http://www.openwebanalytics.com/)
+
 ## Useful links for further reading
 
 [The Hackathon Toolbox - Essential Tools and Practices](http://thecodeship.com/general/hackathon-toolbox-essential-tools-practices/)
