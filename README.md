@@ -19,6 +19,21 @@ Build stuff that works quickly
 
 [Bootsnipp](http://bootsnipp.com/) - Bootstrap HTML/CSS design snippets
 
+### CSS/JavaScript "beauty" enhancements
+
+[Hover](https://github.com/IanLunn/Hover) - CSS3 Hover library
+
+[animate.css](https://github.com/daneden/animate.css) - CSS animations library
+
+[voxel.css](https://github.com/HunterLarco/voxel.css) - CSS, 3D animations
+
+[hint.css](https://github.com/chinchang/hint.css) - CSS, on-hover hints 
+
+[sweetalert](https://github.com/t4t5/sweetalert) - JavaScript "alert" library
+
+[dragula](https://github.com/bevacqua/dragula) - Drag and drop library
+
+
 ### Free stock photos
 
 [Pexels](https://www.pexels.com/)
@@ -83,12 +98,6 @@ Build stuff that works quickly
 [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) - Best practices for HTML5
 
 [Bootstrap Material Design](https://github.com/FezVrasta/bootstrap-material-design) - Material design theme
-
-[animate.css](https://github.com/daneden/animate.css) - CSS animations library
-
-[voxel.css](https://github.com/HunterLarco/voxel.css) - CSS, 3D animations
-
-[dragula](https://github.com/bevacqua/dragula) - Drag and drop library
 
 [AwesomeAPIs](https://github.com/Kikobeats/awesome-api) - Building API backends, API docs template
 
