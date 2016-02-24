@@ -74,7 +74,6 @@ Build stuff that works quickly
 ### Document Scanning API
 [Haven OnDemand](https://dev.havenondemand.com/apis/ocrdocument#overview)
 
-
 ## Useful open-source repositories
 
 [Node.js hackathon-starter](https://github.com/sahat/hackathon-starter) - Fast hackathon starter guide with good documentation
@@ -93,11 +92,23 @@ Build stuff that works quickly
 
 [AwesomeAPIs](https://github.com/Kikobeats/awesome-api) - Building API backends, API docs template
 
-[Chosen](https://github.com/harvesthq/chosen) - Improves select boxes (eg: select your country drop down menu)
+### Select boxes - (eg: select your country drop down menu)
 
-[Select2](https://github.com/select2/select2) - Improves select boxes (eg: select your country drop down menu)
+[Chosen](https://github.com/harvesthq/chosen) 
+
+[Select2](https://github.com/select2/select2)
+
+### File Upload 
 
 [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery
+
+### Carousel
+
+[OwlCarousel 1/2](https://github.com/OwlFonk/OwlCarousel)
+
+[jcarousel](https://github.com/jsor/jcarousel)
+
+[Slick](https://github.com/kenwheeler/slick)
 
 ## Free HTTPS setup
 
