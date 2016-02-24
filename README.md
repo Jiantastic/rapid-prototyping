@@ -87,11 +87,17 @@ Build stuff that works quickly
 
 [animate.css](https://github.com/daneden/animate.css) - CSS animations library
 
-[voxel.css](https://github.com/HunterLarco/voxel.css) - 3D animations
+[voxel.css](https://github.com/HunterLarco/voxel.css) - CSS, 3D animations
 
 [dragula](https://github.com/bevacqua/dragula) - Drag and drop library
 
 [AwesomeAPIs](https://github.com/Kikobeats/awesome-api) - Building API backends, API docs template
+
+[Chosen](https://github.com/harvesthq/chosen) - Improves select boxes (eg: select your country drop down menu)
+
+[Select2](https://github.com/select2/select2) - Improves select boxes (eg: select your country drop down menu)
+
+[jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery
 
 ## Free HTTPS setup
 
