@@ -101,6 +101,8 @@ Build stuff that works quickly
 
 [AwesomeAPIs](https://github.com/Kikobeats/awesome-api) - Building API backends, API docs template
 
+[typeahead.js](https://github.com/twitter/typeahead.js) - JavaScript AutoComplete library By Twitter
+
 ### Select boxes - (eg: select your country drop down menu)
 
 [Chosen](https://github.com/harvesthq/chosen) 
