@@ -103,6 +103,8 @@ Build stuff that works quickly
 
 [typeahead.js](https://github.com/twitter/typeahead.js) - JavaScript AutoComplete library By Twitter
 
+[pickadate.js](https://github.com/amsul/pickadate.js) - JavaScript DateTime picker
+
 ### Select boxes - (eg: select your country drop down menu)
 
 [Chosen](https://github.com/harvesthq/chosen) 
