@@ -65,6 +65,9 @@ Build stuff that works quickly
 
 [Esri Maps](https://developers.arcgis.com/)
 
+### Real-time search API
+[Algolia](https://www.algolia.com/)
+
 ### Automated Communications APIs
 [Twilio](https://www.twilio.com/api)
 
