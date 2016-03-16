@@ -60,6 +60,8 @@ Build stuff that works quickly
 
 [Project Oxford](https://www.projectoxford.ai/)
 
+[Google Web Speech API](https://developers.google.com/web/updates/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API?hl=en)
+
 ### Map APIs
 [Google Maps](https://developers.google.com/maps/)
 
